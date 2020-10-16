@@ -8,7 +8,7 @@ The project book is the file "project-book.pdf" </br>
 The source code has 3 types of files: </br>
   - .nlogo files are the main code files  </br>
   - .ntjson files are NetTango source files used for creating the block-based interface</br>
-  - .html files are the end product files of this project meant for use by the client and run on the browser. These HTML files are currently hosted on Github Pages and accessible by links supplied in the project book and are also written in the chapter below. </br>
+  - .html files are the end product files of this project meant for use by the client and run on the browser. These HTML files are currently hosted on Github Pages and accessible by links supplied in the project book and are also written in the chapter below. By clicking on these links you will be able to run the project on your browser, nothing else is needed. </br>
 
 <h2>Running the project</h2>
 The information and links supplied here are written in the project book as well. This serves as a quick way to run the sub-projects. </br>
