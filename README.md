@@ -14,7 +14,7 @@ The source code is in the folder "nettango_project_csHaifaProjects" of this repo
 This project is made up of two sub projects shortly named "ants" and "mmm". </br>
 The project can be run on the browser. This is the end product of the project meant for use by the client. </br>
 Links to run the sub-projects hosted as (Github Pages sites). These links are also supplied in the project book. </br>
-- ants: https://ron-teller.github.io/ants-netlogo.github.io/ 
-- mmm: https://ron-teller.github.io/mmm-netlogo.github.io/
+- ants: https://ron-teller.github.io/ants-netlogo.github.io/  </br>
+- mmm: https://ron-teller.github.io/mmm-netlogo.github.io/  </br>
 *Run on Chrome browser if the websites fail to load.
 
