@@ -1,12 +1,12 @@
 Undergraduate project for Haifa University "NetTango Project" </br>
 
-<h2>Running the project</h2>
+<h2>Running the project in your browser</h2>
 This project is made up of two sub-projects shortly named "ants" and "mmm". </br>
-The project can be run on the browser. This is the end product of the project meant for use by the client. </br>
-Links to run the sub-projects hosted as (Github Pages sites). These links are also supplied in the project book. </br>
+Click the links below to run the sub-projects in your browser (hosted as Github Pages). </br>
 - ants: https://ron-teller.github.io/ants-netlogo.github.io/  </br>
 - mmm: https://ron-teller.github.io/mmm-netlogo.github.io/  </br>
-*Run in Chrome browser if the websites fail to load.
+*Run in Chrome browser if the websites fail to load.  </br>
+This is the end product of the project meant for use by the client. </br>
 
 <h2>Project Book</h2>
 The project book is the file "project-book.pdf" </br>
